@@ -25,13 +25,13 @@ pre {
 
 .container {
 	background-color: #6895FD;
-	overflow: scroll;
+	overflow: auto;
 	display: flex;
 	border: 4px #003366;
 	height: 160px;
 	justify-content: center;
 	allign-items: center;
-	gap: 8px;
+	gap: 12px;
 }
 
 .item {
@@ -41,14 +41,6 @@ pre {
 	padding: 8px;
 	width: 40px;
 	border-radius: 30%;
-}
-
-.item #fake {
-	background-color: #000;
-	border: 4px #111;
-	height: 40px;
-	padding: 8px;
-	width: 40px;
 }
 
 /* Add a black background color to the top navigation */
