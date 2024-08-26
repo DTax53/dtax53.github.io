@@ -40,6 +40,7 @@ pre {
 	height: 40px;
 	padding: 8px;
 	width: 40px;
+	border-radius: 30%;
 }
 
 .item #fake {
