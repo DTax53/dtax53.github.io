@@ -29,6 +29,9 @@ pre {
 	display: flex;
 	border: 4px #003366;
 	height: 160px;
+	justify-content: center;
+	allign-items: center;
+	gap: 8px;
 }
 
 .item {
