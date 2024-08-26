@@ -43,8 +43,8 @@ pre {
 }
 
 .item #fake {
-	background-color: #000000;
-	border: 4px #306AC2;
+	background-color: #000;
+	border: 4px #111;
 	height: 40px;
 	padding: 8px;
 	width: 40px;
