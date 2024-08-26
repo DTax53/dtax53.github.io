@@ -23,6 +23,23 @@ pre {
     font-style: normal;
 }
 
+.container {
+	background-color: #6895FD;
+	overflow: scroll;
+	display: flex;
+	border: 4px #003366;
+	height: 160px;
+}
+
+.item {
+	background-color: #A5E0F3;
+	border: 4px #306AC2;
+	height: 40px;
+	padding: 8px;
+	width: 40px;
+
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
