@@ -40,7 +40,14 @@ pre {
 	height: 40px;
 	padding: 8px;
 	width: 40px;
+}
 
+.item #fake {
+	background-color: #000000;
+	border: 4px #306AC2;
+	height: 40px;
+	padding: 8px;
+	width: 40px;
 }
 
 /* Add a black background color to the top navigation */
