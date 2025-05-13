@@ -31,7 +31,7 @@
     display: none !important;
 }
 
-.wrapper_c19a55 cozy_c19a55 zalgo_c19a55[data-list-item-id^="chat-messages___Uploader"] {
+.wrapper_c19a55.cozy_c19a55.zalgo_c19a55[data-list-item-id^="chat-messages___Uploader"] {
     padding-right: var(--custom-message-margin-left-content-cozy) !important;
     background-color: var(--brand-500);
 }
