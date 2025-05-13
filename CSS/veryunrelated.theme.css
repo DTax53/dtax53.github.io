@@ -31,13 +31,15 @@
     display: none !important;
 }
 
-.contents_c19a55>[id^="message-content-Uploader"] {
+.contents_c19a55:has([id^="message-content-Uploader"]) {
     align-items: end;
     align-content: end;
     justify-content: end;
     justify-items: end;
-    border-radius: 10px 0px 0px 10px;
-    background-color: var(--brand-500);
+    id^="message-content-Uploader" {
+        border-radius: 10px 0px 0px 10px;
+        background-color: var(--brand-500);
+    }
 }
 
 .messageListItem__5126c[data-is-self="true"] {
