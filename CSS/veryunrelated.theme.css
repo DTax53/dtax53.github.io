@@ -36,10 +36,10 @@
     align-content: end;
     justify-content: end;
     justify-items: end;
-    id^="message-content-Uploader" {
-        border-radius: 10px 0px 0px 10px;
-        background-color: var(--brand-500);
-    }
+}
+.contents_c19a55>[id^="message-content-Uploader"] {
+    border-radius: 10px 0px 0px 10px;
+    background-color: var(--brand-500);
 }
 
 .messageListItem__5126c[data-is-self="true"] {
