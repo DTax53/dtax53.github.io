@@ -38,7 +38,7 @@
     justify-items: end;
 }
 .contents_c19a55>[id^="message-content-Uploader"] {
-    border-radius: 10px 0px 0px 10px;
+    border-radius: 10px 10px 10px 10px;
     background-color: var(--brand-500);
 }
 
