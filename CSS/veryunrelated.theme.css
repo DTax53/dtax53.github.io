@@ -31,10 +31,13 @@
     display: none !important;
 }
 
-.filewrapper_0ccae {
-    padding-right: var(--custom-message-margin-left-content-cozy) !important;
+.contents_c19a55>[id^="message-content-Uploader"] {
+    align-items: end;
+    align-content: end;
+    justify-content: end;
+    justify-items: end;
+    border-radius: 10px 0px 0px 10px;
     background-color: var(--brand-500);
-    right: 20px;
 }
 
 .messageListItem__5126c[data-is-self="true"] {
